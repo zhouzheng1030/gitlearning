@@ -5,4 +5,4 @@ git is a free version software
 ###
 stage(index), master
 
-Git track changes
+Git tracks changes of files
