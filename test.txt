@@ -1,1 +1,5 @@
 111111
+
+how diff worksz
+
+git tracks changes
