@@ -9,3 +9,5 @@ this is a new branch of b
 this is a test for git switch no.1
 
 sss
+
+git is quick & ssimple
