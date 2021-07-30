@@ -7,3 +7,5 @@ git tracks changes
 ss
 
 this is a new branch of b
+
+this is a test for git switch 
