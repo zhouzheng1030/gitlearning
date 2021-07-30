@@ -3,3 +3,7 @@
 how diff worksz
 
 git tracks changes
+
+ss
+
+this is a new branch of b
