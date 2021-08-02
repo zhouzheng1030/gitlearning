@@ -11,3 +11,5 @@ this is a test for git switch no.1
 sss
 
 git is quick & ssimple
+
+this is a test of branch 'dev'
