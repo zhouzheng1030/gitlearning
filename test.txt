@@ -13,3 +13,4 @@ sss
 git is quick & ssimple
 
 this is a test of branch 'dev'
+Creating  a new branch is quick AND simple
