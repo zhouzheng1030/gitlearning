@@ -13,3 +13,5 @@ sss
 git is quick & ssimple
 Creating a new branch is quick and simple
 bug get fixed
+
+this is a test of github sync
